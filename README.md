@@ -1,5 +1,7 @@
 # About
 
+**This repository has been merged to <https://github.com/tucanos/tucanos.git>**
+
 Python bindings to [tucanos](https://github.com/tucanos/tucanos.git)
 
 # Install
